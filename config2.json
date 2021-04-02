@@ -19,8 +19,9 @@
                 "decryption": "none",
                 "fallbacks": [
                     {
-                        "path": "/websocket", // 必须换成自定义的 PATH
-                        "dest": 1234,
+#必须换成自定义的 PATH                        
+                        "path": "/websocket",
+                        "dest": 666,
                         "xver": 1
                     }
                 ]
@@ -44,15 +45,16 @@
             }
         },
         {
-            "port": 1234,
+            "port": 666,
             "listen": "127.0.0.1",
             "protocol": "vless",
             "settings": {
                 "clients": [
                     {
-                        "id": "c4616432-97cd-4514-8979-f3a426fccdfd", // 填写你的 UUID
+#填写你的 UUID                        
+                        "id": "c4816831-97ad-4514-8979-f3a486fccdfd",
                         "level": 0,
-                        "email": "love@example.com"
+                        "email": "example2@example.com"
                     }
                 ],
                 "decryption": "none",
@@ -66,8 +68,10 @@
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "acceptProxyProtocol": true, // 提醒：若你用 Nginx/Caddy 等反代 WS，需要删掉这行
-                    "path": "/websocket" // 必须换成自定义的 PATH，需要和分流的一致
+#提醒：若你用 Nginx/Caddy 等反代 WS，需要删掉下一行                    
+                    "acceptProxyProtocol": true,
+#必须换成自定义的 PATH，需要和分流的一致                    
+                    "path": "/websocket"
                 }
             }
         }
