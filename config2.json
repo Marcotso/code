@@ -95,28 +95,6 @@
                     "path": "/websocket" // 必须换成自定义的 PATH，需要和分流的一致
                 }
             }
-        },
-        {
-            "port": 3456,
-            "listen": "127.0.0.1",
-            "protocol": "vmess",
-            "settings": {
-                "clients": [
-                    {
-                        "id": "c4616432-97cd-4514-8979-f3a426fccdfd", // 填写你的 UUID
-                        "level": 0,
-                        "email": "love@example.com"
-                    }
-                ]
-            },
-            "streamSettings": {
-                "network": "ws",
-                "security": "none",
-                "wsSettings": {
-                    "acceptProxyProtocol": true, // 提醒：若你用 Nginx/Caddy 等反代 WS，需要删掉这行
-                    "path": "/vmessws" // 必须换成自定义的 PATH，需要和分流的一致
-                }
-            }
         }
     ],
     "outbounds": [
