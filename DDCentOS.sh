@@ -1,5 +1,6 @@
 #!/bin/bash
 #Net Reinstall Centos System
+#bash <(curl -s -S -L https://github.com/Marcotso/code/edit/main/DDCentOS.sh)
 red='\033[0;31m'
 green='\033[0;32m'
 yellow='\033[0;33m'
