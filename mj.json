@@ -14,6 +14,7 @@
 {"key":"csp_DY1990","name":"990","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_GitCafe","name":"纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AliPanSou","name":"猫搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"360_spider","name":"360官源","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
 
 {"name":"资源站"},
 {"key":"8090资源(含官采)","name":"8090资源网(含官采)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
