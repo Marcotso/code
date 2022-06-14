@@ -362,7 +362,8 @@
       "channels": [
         {
           "name": "redirect",
-          "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hcmNvdHNvL2NvZGUvbWFpbi9saXZlLnR4dA=="]
+          //"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hcmNvdHNvL2NvZGUvbWFpbi9saXZlLnR4dA=="]
+          "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL01hcmNvdHNvL2NvZGUvbWFpbi9saXZlMDYxMy50eHQ="]
         }
       ]
     }
