@@ -105,7 +105,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://notabug.org/qaz/xiaoming/raw/master/tangsan/555.bmp"
+		"ext": "https://raw.githubusercontent.com/Marcotso/sm/main/MeowXB/555电影.json"
 	}, {
 		"key": "csp_biubiu_lezhu",
 		"name": "乐猪(XB)",
@@ -114,7 +114,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://notabug.org/qaz/xiaoming/raw/master/tangsan/lezhutv.bmp"
+		"ext": "https://raw.githubusercontent.com/Marcotso/sm/main/MeowXB/乐猪影视.json"
 	}, {
 		"key": "789看片",
 		"name": "789看片(XP)",
@@ -123,7 +123,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://notabug.org/qaz/xiaoming/raw/master/tangsan/789ba.bmp"
+		"ext": "https://github.com/Marcotso/sm/raw/main/MeowXP/789kp.json"
 	}, {
 		"key": "Gimy",
 		"name": "Gimy(XP)",
