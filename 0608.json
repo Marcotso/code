@@ -10,7 +10,7 @@
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Marcotso/sm/main/MeowXP/duboku.json"},      
+{"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/Marcotso/sm/main/MeowXP/duboku.json"},
 {"key":"csp_zxzj","name":"📗在线(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"ext":"","filterable":1,"quickSearch":1,"name":"📙低端影视(SP)","api":"csp_DiDuan","type":3,"key":"diduan_spider","searchable":1},
 {"key":"csp_CZSPP","name":"📔厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
@@ -346,10 +346,6 @@
 {"key":"胖猫影视","name":"胖猫影视(聚)","type":1,"api":"http://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"嘛哩嘛哩","name":"嘛哩嘛哩(聚)","type":1,"api":"https://malimali3.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫"]},
 {"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
-      
-// ⇩⇩ XPTAH ⇩⇩
-//{"key":"csp_xpath_huya","name":"虎牙直播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"网上自己找XPATH"},
-//{"key":"csp_xpath_hdmoli","name":"HD茉莉(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"网上自己找XPATH"},
 
 // ⇩⇩ XML ⇩⇩
 {"key":"诺讯采集","name":"诺讯采集","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/at/xml/","playUrl":"https://www.nxflv.com/?url="},
