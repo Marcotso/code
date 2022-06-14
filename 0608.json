@@ -1,9 +1,9 @@
 {
+"wallpaper":"https://github.com/Marcotso/code/raw/main/wallpaper-3840x2160-935k.jpg",      
 "spider":"https://github.com/Marcotso/code/raw/main/0608.jar",
 
 "sites":[
 // ⇩⇩ jar包内东东 ⇩⇩
-
 {"key":"360_spider","name":"📺360(官源)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Alips","name":"🐱喵搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
@@ -19,24 +19,19 @@
 {"key":"csp_Dy1990","name":"1990电影(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"push_agent","name":"推送（阿里）","type":3,"api":"csp_Ali","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
 
-
 // ⇩⇩ XBIUBIU ⇩⇩
-
 {"key":"csp_biubiu_lezhu","name":"乐猪(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"网上自己找XBIUBIU"},
 {"key":"csp_biubiu_lgyy","name":"蓝光(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"网上自己找XBIUBIU"},
 {"key":"csp_biubiu_555","name":"555(Biu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"网上自己找XBIUBIU"},
 
 // ⇩⇩ APPYSV2 ⇩⇩
-
 {"key":"v2_团夕","name":"团夕(V2)","type":3,"api":"csp_AppYs2","searchable":1,"quickSearch": 0,"filterable":1, "ext":"https://www.kan365.xyz/api.php/app/"},
 
 // ⇩⇩ XPTAH ⇩⇩
-
 {"key":"csp_xpath_huya","name":"虎牙直播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"网上自己找XPATH"},
 {"key":"csp_xpath_hdmoli","name":"HD茉莉(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"网上自己找XPATH"},
 
 // ⇩⇩ XML ⇩⇩
-
 {"key":"诺讯采集","name":"诺讯采集","type":0,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://caiji.nxflv.com/api.php/provide/vod/at/xml/","playUrl":"https://www.nxflv.com/?url="},
 {"key":"腾讯官网","name":"腾讯官网","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
 
