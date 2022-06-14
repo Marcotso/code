@@ -97,7 +97,9 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "https://raw.githubusercontent.com/Marcotso/sm/main/MeowXB/影视工厂.json"
-	}, {
+	},
+{"key":"csp_biubiu_555电影","name":"🥒555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/Marcotso/sm/main/MeowXB/555电影.json"},
+		  {
 		"key": "csp_biubiu_555",
 		"name": "555影院(XB)",
 		"type": 3,
