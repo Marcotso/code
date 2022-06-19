@@ -1,5 +1,5 @@
 {"sites": [
-
+"wallpaper":"https://github.com/Marcotso/code/raw/main/wallpaper-3840x2160-935k.jpg",
 //爬虫线路
 
 {"key": "teyond__pc__首页推荐","name": "首页推荐〔P〕","type": 3,"api": "csp_Kunyu77"       ,"searchable": 1,"quickSearch": 1,"filterable": 1},
