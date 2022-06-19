@@ -1,5 +1,6 @@
 {
   "sites": [
+    //爬虫线路
     {
       "key": "teyond__pc__首页推荐",
       "name": "首页推荐〔P〕",
@@ -45,6 +46,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    //xpath线路
     {
       "key": "teyond__xp__极品影视",
       "name": "极品影视〔X〕",
@@ -765,6 +767,7 @@
       "filterable": 0,
       "ext": "https://raw.githubusercontent.com/Marcotso/sm/main/sun/影视之光.json"
     },
+    //切片线路
     {
       "key": "teyond__qp__艾思影院",
       "name": "艾思影院〔Q〕",
@@ -785,6 +788,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
+    //综合线路
     {
       "key": "teyond__gf__米来影视",
       "name": "米来影视〔Z〕",
